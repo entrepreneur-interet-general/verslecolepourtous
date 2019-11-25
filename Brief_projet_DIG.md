@@ -22,7 +22,7 @@ Qui est engagé dans le projet ?
 - Karim Touhamia - IEN ASH  Puy de Dôme 63
 - Jean Douchet - IEN ASH  Allier 03
 - Michèle Dumont - IEN ASH Cantal 15
-
+<br>
 
 
 ## Quel problème tente-t-on de résoudre ? Pourquoi ? Quel(s) bénéfice(s) pour les utilisateurs.trices ?
@@ -34,7 +34,7 @@ Pourquoi ?
 
 Bénéfice(s) visé(s) ?
 - Apporter une information qui soit lisible (clarté du vocabulaire, effort de langage et de synthèse), compréhensible (donner la bonne information au bon moment) et actionnable (l’usager peut agir en fonction de sa situation : contacter un interlocuteur, effectuer une démarche)
-
+<br>
 
 
 ## Qui sont les utilisateurs ? et leur contexte d'usage ?
@@ -45,7 +45,7 @@ Qui sont les utilisateurs ?
 
 Contexte d'usage
 - Navigation internet à la maison, en salle d'attente, dans les transports en commun, ...
-
+<br>
 
 
 ## Quels résultats essayent-ils d’atteindre ? En suivant quel scénario ?
@@ -53,7 +53,7 @@ Contexte d'usage
 - Trouver des réponses de premier niveau à leurs interrogations
 - Trouver un interlocuteur sur leur territoire qui puisse les rassurer, répondre à leurs interrogations
 - Comprendre les démarches à suivre pour adapter la scolarité de leur enfant
-
+<br>
 
 
 ## Quel est le scope du projet ? Le budget ? Et les contraintes ?
@@ -66,13 +66,13 @@ Le budget ?
 Les contraintes ?
 - Un outil reproductible : la démarche peut être reproduite dans d’autres académies
 - Un outil scalable : l'équipe projets peut ajouter de nouveaux contenus pour de nouvelles questions
-
+<br>
 
 
 ## Quel est l’environnement technique du projet ?
 
 C'est la DSI qui prend cette décision
-
+<br>
 
 
 ## Quelle est la vision du succès ? Les objectifs et les indicateurs ? Les risques ?
@@ -90,6 +90,7 @@ Objectifs et indicateurs ?
 Les risques ?
 - Mort par essoufflement
 - Pas de mise en ligne après la fin de mission DIG
+<br>
 
 
 ## Quel est le planning prévisionnel ? Priorité relative vs. autres sujets ?
