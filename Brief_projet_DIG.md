@@ -92,11 +92,11 @@ Les risques ?
 - Pas de mise en ligne après la fin de mission DIG
 <br>
 
-
 ## Quel est le planning prévisionnel ? Priorité relative vs. autres sujets ?
-Juin - Juillet : Recherche terrain / découverte des problématiques
-Juillet - Août : Approfondissement & début du prototypage
-Août - Septembre : validation du scope projet & début du développement technique
-Septembre - Octobre : exploration de piste - test & learn
-Octobre - Novembre : test & learn
-Novembre - Décembre : finalisation de la solution & lancement
+
+- Juin - Juillet : Recherche terrain / découverte des problématiques
+- Juillet - Août : Approfondissement & début du prototypage
+- Août - Septembre : validation du scope projet & début du développement technique
+- Septembre - Octobre : exploration de piste - test & learn
+- Octobre - Novembre : test & learn
+- Novembre - Décembre : finalisation de la solution & lancement
