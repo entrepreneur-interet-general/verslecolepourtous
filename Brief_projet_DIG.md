@@ -1,6 +1,7 @@
 # Brief du projet DIG
 
 ## Qui est engagé dans ce projet ? Et quelles sont les personnes associées aux étapes de validation ?
+
 Qui est engagé dans les étapes de validation ?
 - Karim Benmiloud - Recteur
 - Tanguy Cavé - Secrétaire général (pré-validation finale)
