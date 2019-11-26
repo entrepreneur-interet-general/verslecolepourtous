@@ -38,5 +38,5 @@ Secondaire(s) :
 ## Cibles 
 - Parents d’élèves 
 - Association
-- Professions libérales
-- Agents
+- Professionnels de santé
+- Agents de l'éducation nationale
