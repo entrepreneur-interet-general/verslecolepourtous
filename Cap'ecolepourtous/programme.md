@@ -7,14 +7,14 @@ Ce cycle s’inscrit comme expérimentation complémentaire (mené au sein de l�
 </br>
 
 
-## Dates 📅 : 
+## Dates : 
 - Session 1 : le 4 novembre de 17h à 19h
 - Session 2 : le 18 novembre de 17h à 19h
 - Session 3 : le 2 décembre de 17h à 19h
 </br>
 
 
-## Format 🚣‍♂️: 
+## Format : 
 - 5' accueil des participants
 - 5’ présentation de 4 (ou plus) thématiques (Activités périscolaires - Annonce du diagnostic - Déboire administratif)
 - 10’ chaque participant.te (s’il le souhaite) propose un sujet sur une thématique
@@ -25,7 +25,7 @@ Ce cycle s’inscrit comme expérimentation complémentaire (mené au sein de l�
 </br>
 
 
-## Objectif 🎯 : 
+## Objectif : 
 Créer un moment de rencontre, de partage d’expérience complémentaire au service numérique en réponse aux besoins exprimés lors des recherches sur le terrain.
 Secondaire(s) :
 Tester et améliorer le service numérique au fil des sessions
@@ -34,7 +34,7 @@ Créer un relais de bouche à oreille pour promouvoir le service en ligne
 </br>
 
 
-## Cibles 👪: 
+## Cibles : 
 Parents d’élèves 
 Association
 Profession libérale
@@ -42,7 +42,7 @@ Corps académique
 </br>
 
 
-## Lieu 🏞️: 
+## Lieu : 
 Café des Augustes
 </br>
 
