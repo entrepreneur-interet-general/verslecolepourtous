@@ -1,4 +1,4 @@
-# Cycle de rencontre Cap' Ecole Inclusive au Café des Augustes
+# Cycle de rencontre Cap'Ecole pour tous au Café des Augustes
 
 ## Présentation
 Moment de rencontre et de partage d’expérience sous la forme d’un cycle de 3 sessions dédiés aux parents et aux professionnels qui sont ou ont été confronté aux difficultés scolaire, aux troubles des apprentissages et/ou handicap.
@@ -36,18 +36,7 @@ Secondaire(s) :
 
 
 ## Cibles 
-Parents d’élèves 
-Association
-Professions libérales
-Agents
-<br>
-
-
-## Lieu
-Café des Augustes
-<br>
-
-
-## Ressource
-Post-it !
-<br>
+- Parents d’élèves 
+- Association
+- Professions libérales
+- Agents
