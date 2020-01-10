@@ -1,4 +1,4 @@
-# Brief du projet DIG
+# Brief du projet
 
 ## Qui est engagé dans ce projet ? Et quelles sont les personnes associées aux étapes de validation ?
 
