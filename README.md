@@ -16,4 +16,4 @@ Les deux designers auront pour mission de concevoir une “plateforme Handicap�
 - Contenus du site (en cours)
 - [Pré-production](https://portail.ac-clermont.fr/ecole-inclusive-re/)
 
-
+Un immense merci à Sarah Lepreux pour les illustrations qu’elle a réalisé pour la plateforme. Elle travaille actuellement avec Charlotte Bourcier sur le projet [Alphabet](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/alphabet.html)
