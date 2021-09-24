@@ -11,6 +11,7 @@ Les deux designers auront pour mission de concevoir une “plateforme Handicap�
 
 - 🎯 [Brief du projet](https://github.com/entrepreneur-interet-general/verslecolepourtous/blob/master/Brief_projet.md)
 - 📌 [Documents de suivi du projet](https://github.com/entrepreneur-interet-general/verslecolepourtous/tree/master/suivi)
+- 🔍 [Recherche utilisateur](https://github.com/entrepreneur-interet-general/verslecolepourtous/tree/master/Recherche)
 - 💻 [Prototype web](https://www.figma.com/file/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3426)
 - ✍️ [Guide rédactionnel](https://github.com/entrepreneur-interet-general/verslecolepourtous/blob/master/Guide_redactionnel.md)
 - 📟 [Documentation fonctionnelle](https://github.com/entrepreneur-interet-general/verslecolepourtous/blob/master/Documentation_fonctionnelle.md)
