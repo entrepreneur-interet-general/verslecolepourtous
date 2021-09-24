@@ -118,8 +118,3 @@ Les agents ont besoin
 - L’administrateur peut créer des files de traitement
 - L’administrateur peut créer des propriétaireq
 - L’administrateur peut créer les règles pour l’affichage des statistiques
-
-**Service en ligne**
-- ???
-
-- TEST PIERRE -
