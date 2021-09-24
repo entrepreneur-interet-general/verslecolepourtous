@@ -15,7 +15,7 @@ Les deux designers auront pour mission de concevoir une “plateforme Handicap�
 - 💻 [Prototype web](https://www.figma.com/file/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3426)
 - ✍️ [Guide rédactionnel](https://github.com/entrepreneur-interet-general/verslecolepourtous/blob/master/Guide_redactionnel.md)
 - 📟 [Documentation fonctionnelle](https://github.com/entrepreneur-interet-general/verslecolepourtous/blob/master/Documentation_fonctionnelle.md)
-- Contenus du site (en cours)
+- 📝 [Contenus du site](https://github.com/entrepreneur-interet-general/verslecolepourtous/tree/master/Contenus)
 - 👨‍💻 [Pré-production](https://portail.ac-clermont.fr/ecole-inclusive-re/)
 
 Un immense merci à Sarah Lepreux pour les illustrations qu’elle a réalisé pour la plateforme. Elle travaille actuellement avec Charlotte Bourcier sur le projet [Alphabet](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/alphabet.html)
